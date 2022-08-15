@@ -454,13 +454,14 @@ h3.my-profession{
 }
 .about .about-content .timeline .timeline-text{
     line-height: 25px;
-    font-size: 17px;
+    font-size: 16px;
     text-align: justify;
     color: var(--text-black-700)
 }
 /* Services */
 .service .container{
     padding-bottom: 40px;
+    padding-left: 14%;
 }
 .service .service-item{
     margin-bottom: 30px;
